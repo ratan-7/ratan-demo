@@ -1,3 +1,4 @@
 # ratan-demo
-this is my git repository
-author ratan mahata
+this is my git repository.
+<br>
+author -ratan mahata
